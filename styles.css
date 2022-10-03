@@ -1,0 +1,48 @@
+h1,
+h3, 
+div {
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-family: fantasy, Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+
+ul {
+    text-align: left;
+}
+
+.heading {
+    font-size: 50px;
+    font-family: "Brush Script MT";
+}
+p.name {
+    font-weight: bold;
+}
+
+li {
+    font-family: "Papyrus";
+}
+
+p {
+    font-family: "Monaco";
+}
+
+.lasagna {
+    color: rgb(218, 47, 47);
+}
+
+.doner {
+    color: rgb(184, 14, 48);
+}
+
+.olivie {
+    color: rgb(195, 167, 126);
+}
